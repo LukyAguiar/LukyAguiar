@@ -1,24 +1,32 @@
 ```java
 package Github;
 
-public class LucasAguiar{
-    
-    public static void main(String[] args){
-          
-          
+public class Apresetacao{   
+    public static void main(String[] args)
+    {
+        Pessoa lukyAguiar = new lukyAguiar("Lucas Silva",20,"Análise e Desenvolvimento de Sistemas","Generation Brasil");
+        System.out.print("Seja bem vindo ao meu perfil ♥")
     }
 }
 
 ```
-
 ```java
 package Github;
 
 public class Pessoa {
 
-
-
-
+    private String nome; 
+    private int idade; 
+    private String formacao; 
+    private String bootcamp;
+    
+    public Pessoa(String nome, int idade, String formacao, String bootcamp)
+    {
+        getNome = this.nome;
+        getIdade = this.idade;
+        getFormacao = this.formacao;
+        getBootcamp = this.bootcamp;
+    {
 }
 ```
 <h1></h1>
