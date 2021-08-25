@@ -15,10 +15,10 @@
   <img align="right" alt="Luky-Madalorian" width="25%"  height="25%"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
  <h1></h1>
- <div>
+ <div style="display:none">
   <a href="https://github.com/LukyAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ProjGeneration)](https://github.com/LukyAguiar/ProjGeneration)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=FaculdadeUnip)](https://github.com/LukyAguiar/FaculdadeUnip)"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LukyAguiar&repo=ProjGeneration"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LukyAguiar&repo=FaculdadeUnip"/>
 </div>
  <h1><h1>
 <div> 
