@@ -1,7 +1,7 @@
 ```java
 package Github;
 
-public class Apresetacao{   
+public class Apresentacao{   
     public static void main(String[] args)
     {
         Pessoa lukyAguiar = new lukyAguiar("Lucas Silva",20,"Análise e Desenvolvimento de Sistemas","Generation Brasil");
