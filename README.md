@@ -15,10 +15,9 @@
   <img align="right" alt="Luky-Madalorian" width="25%"  height="25%"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
  <h1></h1>
- <div style="display:none">
+ <div style="display: inline_block">
   <a href="https://github.com/LukyAguiar">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LukyAguiar&repo=ProjGeneration"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LukyAguiar&repo=FaculdadeUnip"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LukyAguiar&repo=ProjGeneration&theme=github_dark"/>
 </div>
  <h1><h1>
 <div> 
