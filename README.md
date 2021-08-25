@@ -1,6 +1,6 @@
  <div>
   <a href="https://github.com/LukyAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukyAguiar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukyAguiar&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -14,12 +14,11 @@
   <img align="center" alt="Luky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Luky-Madalorian" width="25%"  height="25%"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
-
  <h1></h1>
  <div>
   <a href="https://github.com/LukyAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ProjGeneration)](https://github.com/LukyAguiar/ProjGeneration)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=FaculdadeUnip)](https://github.com/LukyAguiar/FaculdadeUnip)"/>
 </div>
  <h1><h1>
 <div> 
