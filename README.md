@@ -1,4 +1,7 @@
-<div>
+```java
+
+```
+<h1></h1>
   <h2><b>♦ STATISTICS ♦</b></h2>
   <a href="https://github.com/LukyAguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukyAguiar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -20,14 +23,16 @@
   <img align="right" alt="Luky-Madalorian" width="25%"  height="25%"src="https://www.icegif.com/wp-content/uploads/icegif-1301.gif">
 </div>
  <h1></h1>
-<div style="display: inline_block"><br>
+<div style="display: inline_block border-style: solid}"><br>
   <h2 style="color:red" ><b>♦ IDE's | TOOL's | SO ♦ </b></h2>
   <img align="center" alt="Luky-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Luky-AndroidStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Luky-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Luky-PHOTOSHOP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Luky-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Luky-Win" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+ <table>
+  <img align="center" alt="Luky-Win" height="40" width="50" border="solid 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  </table>
 </div>
  <h1></h1>
  <div style="display: inline_block">
