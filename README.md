@@ -4,7 +4,7 @@ package Github;
 public class Apresentacao{   
     public static void main(String[] args)
     {
-        Pessoa lukyAguiar = new lukyAguiar("Lucas Silva",20,"Análise e Desenvolvimento de Sistemas","Generation Brasil");
+        Pessoa lukyAguiar = new lukyAguiar("Lucas Silva",20,"Análise e Desenvolvimento de Sistemas","Generation Brasil,true,true");
         System.out.print("Seja bem vindo ao meu perfil ♥");
     }
 }
@@ -19,6 +19,8 @@ public class Pessoa {
     private int idade; 
     private String formacao; 
     private String bootcamp;
+    private boolean cursandoFacu;
+    private boolean cursandoBoot;
     
     public Pessoa(String nome, int idade, String formacao, String bootcamp)
     {
