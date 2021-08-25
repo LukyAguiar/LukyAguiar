@@ -1,11 +1,11 @@
 <div>
-  <h2><b>STATISTICS</b></h2>
+  <h2><b>♦ STATISTICS ♦</b></h2>
   <a href="https://github.com/LukyAguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukyAguiar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukyAguiar&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <h2><b>HARD SKILLS</b></h2>
+  <h2><b>♦ HARD SKILLS ♦</b></h2>
   <img align="center" alt="Luky-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Luky-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Luky-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
@@ -21,7 +21,7 @@
 </div>
  <h1></h1>
 <div style="display: inline_block"><br>
-  <h2><b>IDE's | TOOLS </b></h2>
+  <h2 style="color:red" ><b>♦ IDE's | TOOL's | SO ♦ </b></h2>
   <img align="center" alt="Luky-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Luky-AndroidStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Luky-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
