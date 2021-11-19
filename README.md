@@ -65,10 +65,6 @@ public class Pessoa {
   </table>
 </div>
  <h1></h1>
- <div style="display: inline_block">
-  <a href="https://github.com/LukyAguiar">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LukyAguiar&repo=ProjGeneration&theme=github_dark"/>
-</div>
  <h1><h1>
 <div> 
   <a href="https://www.instagram.com/luky.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
